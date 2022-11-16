@@ -85,7 +85,7 @@ Some common scenarios for SaaS are:
 # Knowledge check
 Choose the best response for each question. Then select Check your answers.
 
-Check your knowledge
+## Check your knowledge
 1. Which cloud service type is most suited to a lift and shift migration from an on-premises datacenter to a cloud deployment?
 
 O - Infrastructure as a Service (IaaS)
