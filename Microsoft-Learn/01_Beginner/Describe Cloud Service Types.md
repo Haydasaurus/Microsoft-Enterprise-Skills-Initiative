@@ -92,7 +92,8 @@ O - Infrastructure as a Service (IaaS)
 
 X - Platform as a Service (PaaS)
 
-Software as a Service (SaaS)
+X - Software as a Service (SaaS)
+
 2. What type of cloud service type would a Finance and Expense tracking solution typically be in?
 
 X - Infrastructure as a Service (IaaS)
