@@ -12,6 +12,9 @@ Upon completion of this module, you'll be able to:
 ## Prerequisites
 Basic familiarity with IT terms and concepts
 
+## This module is part of these learning paths
+-   [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+
 ---
 
 # Introduction
@@ -114,3 +117,6 @@ You should now be able to:
 - Describe platform as a service (PaaS).
 - Describe software as a service (SaaS).
 - Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).
+
+## This module is part of these learning paths
+-   [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
