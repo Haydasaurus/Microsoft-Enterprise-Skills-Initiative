@@ -1,3 +1,4 @@
+![describe-cloud-compute](https://user-images.githubusercontent.com/94882786/203648044-308a6cbc-c0eb-4ef0-a7b7-1f3571bab23f.svg)
 # Describe Cloud Computing
 This module introduces you to cloud computing. It covers things such as cloud concepts, deployment models, and understanding shared responsibility in the cloud.
 
