@@ -1,4 +1,4 @@
-
+![generic-trophy](https://user-images.githubusercontent.com/94882786/203649375-2252c7fd-1be7-4e51-b6a2-15895a840a85.svg)
 
 # Azure Fundamentals: Describe Azure architecture and services
 
