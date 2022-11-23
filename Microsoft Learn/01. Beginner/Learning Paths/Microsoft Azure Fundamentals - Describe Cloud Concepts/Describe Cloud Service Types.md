@@ -1,3 +1,4 @@
+![generic-badge](https://user-images.githubusercontent.com/94882786/203648117-36d25e7e-7277-40aa-b88b-055436edc2ad.svg)
 # Describe Cloud Service Types
 This module covers the different cloud service types and shares some of the use cases and benefits aligned with each service type.
 
