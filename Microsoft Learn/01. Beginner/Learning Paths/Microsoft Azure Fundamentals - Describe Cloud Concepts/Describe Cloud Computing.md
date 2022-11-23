@@ -14,6 +14,9 @@ Upon completion of this module, you will be able to:
 ## Prerequisites
 -   Basic familiarity with IT terms and concepts
 
+## This module is part of these learning paths
+-   [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+
 ---
 
 # Introduction to Microsoft Azure Fundamentals
