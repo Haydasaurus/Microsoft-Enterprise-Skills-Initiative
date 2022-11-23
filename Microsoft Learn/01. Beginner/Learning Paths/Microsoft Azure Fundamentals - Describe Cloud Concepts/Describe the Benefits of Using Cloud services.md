@@ -1,3 +1,4 @@
+![generic-badge](https://user-images.githubusercontent.com/94882786/203648117-36d25e7e-7277-40aa-b88b-055436edc2ad.svg)
 # Introduction
 In this module, you’ll be introduced to some of the benefits that cloud computing offers. You’ll learn how cloud computing can help you meet variable demand while providing a good experience for your customer. You’ll also learn about security, governance, and overall manageability in the cloud.
 
