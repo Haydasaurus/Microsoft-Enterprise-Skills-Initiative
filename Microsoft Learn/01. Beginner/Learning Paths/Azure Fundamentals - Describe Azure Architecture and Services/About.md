@@ -15,5 +15,4 @@ The Microsoft Azure Fundamentals training is composed of three learning paths: M
 This learning path helps prepare you for [Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/certifications/exams/az-900/).
 
 ## Prerequisites
-
 -   Basic familiarity with IT terms and concepts

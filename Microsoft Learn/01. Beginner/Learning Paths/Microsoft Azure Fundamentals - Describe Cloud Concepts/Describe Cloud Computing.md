@@ -38,17 +38,16 @@ Technical IT experience isn't required; however, having general IT knowledge wil
 If you're just beginning to work with the cloud, or if you already have cloud experience, Azure Fundamentals provides you with everything you need to get started.
 
 No matter your goals, Azure Fundamentals has something for you. You should take this course if you:
-
 -   Have general interest in Azure or in the cloud
 -   Want to earn official certification from Microsoft (AZ-900)
 
 The Azure Fundamentals learning path series can help you prepare for Exam AZ-900: Microsoft Azure Fundamentals. This exam includes three knowledge domain areas:
 
-| **AZ-900 Domain Area** | **Weight** |
-|---|---|
-|Describe cloud concepts | 25-30%|
-|Describe Azure architecture and services | 35-40%|
-|Describe Azure management and governance| 30-35%|
+| **AZ-900 Domain Area**                   | **Weight** |
+| ---------------------------------------- | ---------- |
+| Describe cloud concepts                  | 25-30%     |
+| Describe Azure architecture and services | 35-40%     |
+| Describe Azure management and governance | 30-35%     |
 
 Each domain area maps to a learning path in Azure Fundamentals. The percentages shown indicate the relative weight of each area on the exam. The higher the percentage, the more questions that part of the exam will contain. Be sure to read the exam page for specifics about what skills are covered in each area.
 
@@ -62,7 +61,7 @@ Cloud computing is the delivery of computing services over the internet. Computi
 Because cloud computing uses the internet to deliver these services, it doesn’t have to be constrained by physical infrastructure the same way that a traditional datacenter is. That means if you need to increase your IT infrastructure rapidly, you don’t have to wait to build a new datacenter—you can use the cloud to rapidly expand your IT footprint.
 
 This short video provides a quick introduction to cloud computing.
-(Insert Later)
+**(Insert Later)**
 
 ---
 
@@ -84,19 +83,16 @@ The following diagram highlights how the Shared Responsibility Model informs who
 ![Diagram showing the responsibilities of the shared responsibility model.](https://user-images.githubusercontent.com/94882786/203642179-81ff8d2f-014f-44c3-908b-e5000f703610.svg)
 
 You’ll always be responsible for:
-
 -   The information and data stored in the cloud
 -   Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
 -   The accounts and identities of the people, services, and devices within your organization
 
 The cloud provider is always responsible for:
-
 -   The physical datacenter
 -   The physical network
 -   The physical hosts
 
 Your service model will determine responsibility for things like:
-
 -   Operating systems
 -   Network controls
 -   Applications
@@ -108,36 +104,30 @@ Your service model will determine responsibility for things like:
 What are cloud models? The cloud models define the deployment type of cloud resources. The three main cloud models are: private, public, and hybrid.
 
 ## Private cloud
-
 Let’s start with a private cloud. A private cloud is, in some ways, the natural evolution from a corporate datacenter. It’s a cloud (delivering IT services over the internet) that’s used by a single entity. Private cloud provides much greater control for the company and its IT department. However, it also comes with greater cost and fewer of the benefits of a public cloud deployment. Finally, a private cloud may be hosted from your on site datacenter. It may also be hosted in a dedicated datacenter offsite, potentially even by a third party that has dedicated that datacenter to your company.
 
 ## Public cloud
-
 A public cloud is built, controlled, and maintained by a third-party cloud provider. With a public cloud, anyone that wants to purchase cloud services can access and use resources. The general public availability is a key difference between public and private clouds.
 
 ## Hybrid cloud
-
 A hybrid cloud is a computing environment that uses both public and private clouds in an inter-connected environment. A hybrid cloud environment can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources. Hybrid cloud can be used to provide an extra layer of security. For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private cloud infrastructure.
 
 The following table highlights a few key comparative aspects between the cloud models.
 
-| **Public cloud** | **Private cloud** | **Hybrid cloud** |
-| --- | --- | --- |
-| No capital expenditures to scale up | Organizations have complete control over resources and security | Provides the most flexibility |
-| Applications can be quickly provisioned and deprovisioned | Data is not collocated with other organizations’ data | Organizations determine where to run their applications |
-| Organizations pay only for what they use | Hardware must be purchased for startup and maintenance | Organizations control security, compliance, or legal requirements |
-| Organizations don’t have complete control over resources and security | Organizations are responsible for hardware maintenance and updates |  |
+| **Public cloud**                                                      | **Private cloud**                                                  | **Hybrid cloud**                                                  |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| No capital expenditures to scale up                                   | Organizations have complete control over resources and security    | Provides the most flexibility                                     |
+| Applications can be quickly provisioned and deprovisioned             | Data is not collocated with other organizations’ data              | Organizations determine where to run their applications           |
+| Organizations pay only for what they use                              | Hardware must be purchased for startup and maintenance             | Organizations control security, compliance, or legal requirements |
+| Organizations don’t have complete control over resources and security | Organizations are responsible for hardware maintenance and updates |                                                                   |
 
 ## Multi-cloud
-
 A fourth, and increasingly likely scenario is a multi-cloud scenario. In a multi-cloud scenario, you use multiple public cloud providers. Maybe you use different features from different cloud providers. Or maybe you started your cloud journey with one provider and are in the process of migrating to a different provider. Regardless, in a multi-cloud environment you deal with two (or more) public cloud providers and manage resources and security in both environments.
 
 ## Azure Arc
-
 Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment running on multiple cloud providers at once.
 
 ## Azure VMware Solution
-
 What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
 
 ---
@@ -152,7 +142,6 @@ In contrast, OpEx is spending money on services or products over time. Renting a
 Cloud computing falls under OpEx because cloud computing operates on a consumption-based model. With cloud computing, you don’t pay for the physical infrastructure, the electricity, the security, or anything else associated with maintaining a datacenter. Instead, you pay for the IT resources you use. If you don’t use any IT resources this month, you don’t pay for any IT resources.
 
 This consumption-based model has many benefits, including:
-
 -   No upfront costs.
 -   No need to purchase and manage costly infrastructure that users might not use to its fullest potential.
 -   The ability to pay for more resources when they're needed.
@@ -165,7 +154,6 @@ In a cloud-based model, you don’t have to worry about getting the resource nee
 ## Compare cloud pricing models
 
 Cloud computing is the delivery of computing services over the internet by using a pay-as-you-go pricing model. You typically pay only for the cloud services you use, which helps you:
-
 -   Plan and manage your operating costs.
 -   Run your infrastructure more efficiently.
 -   Scale as your business needs change.
@@ -177,33 +165,32 @@ Instead of maintaining CPUs and storage in your datacenter, you rent them for th
 ---
 
 # Knowledge check
-Choose the best response for each question. Then select **Check your answers**.
 
 ## Check your knowledge
 
 1. What is cloud computing?
 
-- Deliver of computing services over the internet.
+◉ Deliver of computing services over the internet.
 
-Delivery of storage services over the internet.
+○ Delivery of storage services over the internet.
 
-Delivery of websites accessible via the internet.
+○ Delivery of websites accessible via the internet.
 
 2. Which cloud model uses some datacenters focused on providing cloud services to anyone that wants them, and some data centers that are focused on a single customer?
 
-Public cloud
+○ Public cloud
 
-- Hybrid cloud
+◉ Hybrid cloud
 
-Multi-cloud
+○ Multi-cloud
 
 3. According to the shared responsibility model, which cloud service type places the most responsibility on the customer?
 
-- Infrastructure as a Service (IaaS)
+◉ Infrastructure as a Service (IaaS)
 
-Software as a Service (SaaS)
+○ Software as a Service (SaaS)
 
-Platform as a Service (PaaS)
+○ Platform as a Service (PaaS)
 
 ---
 
@@ -211,9 +198,7 @@ Platform as a Service (PaaS)
 In this module, you learned about general cloud concepts. You started with things like just understanding what cloud computing is. You also learned about the shared responsibility model and how you and your cloud provider share the responsibility of keeping your information in the cloud secure. You briefly covered the differences between the cloud models (public, private, hybrid, and multi-cloud). Then, you wrapped up with a unit on how the cloud shifts IT spend from a capital expense to an operational expense.
 
 ## Learning objectives
-
 You should now be able to:
-
 -   Define cloud computing.
 -   Describe the shared responsibility model.
 -   Define cloud models, including public, private, and hybrid.
@@ -222,7 +207,6 @@ You should now be able to:
 -   Compare cloud pricing models.
 
 ## Additional resources
-
 The following resources provide more information on topics in this module or related to this module.
 
 -   [Shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) - The shared responsibility model is the sharing of responsibilities for the cloud between you and your cloud provider.

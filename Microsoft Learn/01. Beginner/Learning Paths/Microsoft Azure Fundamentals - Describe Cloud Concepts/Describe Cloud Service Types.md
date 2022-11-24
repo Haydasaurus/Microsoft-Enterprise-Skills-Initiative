@@ -4,7 +4,6 @@ This module covers the different cloud service types and shares some of the use 
 
 ## Learning objectives
 Upon completion of this module, you'll be able to:
-
 - Describe Infrastructure as a Service (IaaS).
 - Describe Platform as a Service (PaaS).
 - Describe Software as a Service (SaaS).
@@ -23,7 +22,6 @@ In this module, you’ll be introduced to cloud service types. You’ll learn ho
 
 ## Learning objectives
 After completing this module, you’ll be able to:
-
 - Describe infrastructure as a service (IaaS).
 - Describe platform as a service (PaaS).
 - Describe software as a service (SaaS).
@@ -41,7 +39,6 @@ The shared responsibility model applies to all the cloud service types. IaaS pla
 
 ## Scenarios
 Some common scenarios where IaaS might make sense include:
-
 - Lift-and-shift migration: You’re standing up cloud resources similar to your on-prem datacenter, and then simply moving the things running on-prem to running on the IaaS infrastructure.
 - Testing and development: You have established configurations for development and test environments that you need to rapidly replicate. You can stand up or shut down the different environments rapidly with an IaaS structure, while maintaining complete control.
 
@@ -61,7 +58,6 @@ Depending on the configuration, you or the cloud provider may be responsible for
 
 ## Scenarios
 Some common scenarios where PaaS might make sense include:
-
 - Development framework: PaaS provides a framework that developers can build upon to develop or customize cloud-based applications. Similar to the way you create an Excel macro, PaaS lets developers create applications using built-in software components. Cloud features such as scalability, high-availability, and multi-tenant capability are included, reducing the amount of coding that developers must do.
 - Analytics or business intelligence: Tools provided as a service with PaaS allow organizations to analyze and mine their data, finding insights and patterns and predicting outcomes to improve forecasting, product design decisions, investment returns, and other business decisions.
 
@@ -79,7 +75,6 @@ The shared responsibility model applies to all the cloud service types. SaaS is 
 
 ## Scenarios
 Some common scenarios for SaaS are:
-
 - Email and messaging.
 - Business productivity applications.
 - Finance and expense tracking.
@@ -87,24 +82,23 @@ Some common scenarios for SaaS are:
 ---
 
 # Knowledge check
-Choose the best response for each question. Then select Check your answers.
 
 ## Check your knowledge
 1. Which cloud service type is most suited to a lift and shift migration from an on-premises datacenter to a cloud deployment?
 
-O - Infrastructure as a Service (IaaS)
+◉ Infrastructure as a Service (IaaS)
 
-X - Platform as a Service (PaaS)
+○ Platform as a Service (PaaS)
 
-X - Software as a Service (SaaS)
+○ Software as a Service (SaaS)
 
 2. What type of cloud service type would a Finance and Expense tracking solution typically be in?
 
-X - Infrastructure as a Service (IaaS)
+○ Infrastructure as a Service (IaaS)
 
-X - Platform as a Service (PaaS)
+○ Platform as a Service (PaaS)
 
-O - Software as a Service (SaaS)
+◉ Software as a Service (SaaS)
 
 ---
 
@@ -113,7 +107,6 @@ In this module, you learned about the cloud service types and some common scenar
 
 ## Learning objectives
 You should now be able to:
-
 - Describe infrastructure as a service (IaaS).
 - Describe platform as a service (PaaS).
 - Describe software as a service (SaaS).
